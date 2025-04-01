@@ -68,9 +68,17 @@ experiences:
       - role: Game Dev and Partner
         time: 2022 - 2024
         company: Octofox Games
-        details: > After securing funding for Wild Woods, we founded the indie studio Octofox Games. During my time there, I took on various responsibilities. My main contributions to the game included network programming, world generation, AI, and gameplay programming. I also developed tools to streamline the work of level and game designers.
-        Beyond development, I was actively involved in game design and project management for multiple projects. I supported project and financial planning through targeted analyses and contributed to negotiations with Daedalic Entertainment by attending meetings and reviewing contracts. Additionally, I assisted the management with strategic and operational tasks.
-      - role: Game Dev
+        details: >-
+  After securing funding for Wild Woods, we founded the indie studio Octofox
+  Games. During my time there, I took on various responsibilities. My main
+  contributions to the game included network programming, world generation, AI,
+  and gameplay programming. I also developed tools to streamline the work of
+  level and game designers. Beyond development, I was actively involved in game
+  design and project management for multiple projects. I supported project and
+  financial planning through targeted analyses and contributed to negotiations
+  with Daedalic Entertainment by attending meetings and reviewing contracts.
+  Additionally, I assisted the management with strategic and operational tasks.      
+  - role: Game Dev
         time: 2020 - 2022
         company: self-employed
         details: While continuing work on Wild Woods I worked on the serious game [EDDi - Epidemic Disease Detectives Hamburg](https://www.hoou.de/projects/eddi-epidemic-disease-detectives-hamburg/preview). Eddi is a serious game that provides a playful learning opportunity to learn infection epidemiological knowledge. I was responsible for programming and the game Design.
