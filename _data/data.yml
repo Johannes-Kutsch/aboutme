@@ -62,13 +62,13 @@ education:
 career-profile:
     title: Introduction
     summary: |
-      Hello and welcome to my CV! I finished my bachelor's degree in Media Computer Science in late 2017. After that, I decided to pursue my passion for games and studied Games at the HAW Hamburg. Currently I am developing the Videogame [Wild Woods](http://www.wildwoodsgame.com/) at Octofox Games, a small Indie Studio that I founded together with 3 fellow students in 2022.
+      Hello and welcome to my CV! I finished my bachelor's degree in Media Computer Science in late 2017. After that, I decided to pursue my passion for games and studied Games at the HAW Hamburg. During my studies, I started developing the game [Wild Woods](http://www.wildwoodsgame.com/) together with 3 fellow students, and based on its success we then founded the indie studio Octofox Games. I left the studio at the end of 2024 and am now looking for new challenges in which I can use my analytical, creative and coordination skills.
 
 experiences:
       - role: Game Dev and Partner
-        time: 2022 - present
+        time: 2022 - 2024
         company: Octofox Games
-        details: After securing funding for Wild Woods we founded the Indie Studio Octofox Games. During my time at Octofox Games, I was responsible for various areas. My work on the game primarily involved network programming, world generation, AI and gameplay programming. Additionally, I created various tools to simplify the work of level and game designers. Beyond game development, I contributed to game design, project management and coordination, created various complex spreadsheets, and played a pivotal role in publisher negotiations.
+        details: After securing funding for Wild Woods we founded the Indie Studio Octofox Games. During my time at Octofox Games, I was responsible for various areas. My work on the game primarily involved network programming, world generation, AI and gameplay programming. Additionally, I created various tools to simplify the work of level and game designers. Beyond game development, Furthermore, I played a key role in game design and project management for various projects. Additionally, I developed customized tools that significantly enhanced the efficiency of level and game designers. I also supported project and financial planning through targeted analyses. I was instrumental in negotiations with Daedalic Entertainment, regularly attending meetings and analyzing contracts as part of the negotiation process. Moreover, I assisted the management in both strategic and operational matters.
 
       - role: Game Dev
         time: 2020 - 2022
@@ -134,6 +134,9 @@ news:
     intro: |
 
     posts:
+        - time: December 2024
+          title: 'The early acess version of [Wild Woods](http://www.wildwoodsgame.com/) was released.'
+    
         - time: April 2022
           title: '[Wild Woods](http://www.wildwoodsgame.com/) will be published by [Daedalic Entertainment](https://www.daedalic.com/).'
 
