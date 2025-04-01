@@ -61,15 +61,13 @@ education:
 
 career-profile:
     title: Introduction
-    summary: |
-      Hello and welcome to my CV! I finished my bachelor's degree in Media Computer Science in late 2017. After that, I decided to pursue my passion for games and studied Games at the HAW Hamburg. During my studies, I started developing the game [Wild Woods](http://www.wildwoodsgame.com/) together with 3 fellow students, and based on its success we then founded the indie studio Octofox Games. I left the studio at the end of 2024 and am now looking for new challenges in which I can use my analytical, creative and coordination skills.
+    summary: Hello and welcome to my CV! I finished my bachelor's degree in Media Computer Science in late 2017. After that, I decided to pursue my passion for games and studied Games at the HAW Hamburg. During my studies, I started developing the game [Wild Woods](http://www.wildwoodsgame.com/) together with 3 fellow students, and based on its success we then founded the indie studio Octofox Games. I left the studio at the end of 2024 and am now looking for new challenges in which I can use my analytical, creative and coordination skills.
 
 experiences:
       - role: Game Dev and Partner
         time: 2022 - 2024
         company: Octofox Games
-        details: |
-        After securing funding for Wild Woods, we founded the indie studio Octofox Games. During my time there, I took on various responsibilities. My main contributions to the game included network programming, world generation, AI, and gameplay programming. I also developed tools to streamline the work of level and game designers. Beyond development, I was actively involved in game design and project management for multiple projects. I supported project and financial planning through targeted analyses and contributed to negotiations with Daedalic Entertainment by attending meetings and reviewing contracts. Additionally, I assisted the management with strategic and operational tasks.      
+        details: "After securing funding for Wild Woods, we founded the indie studio Octofox Games. During my time there, I took on various responsibilities. My main contributions to the game included network programming, world generation, AI, and gameplay programming. I also developed tools to streamline the work of level and game designers. \nBeyond development, I was actively involved in game design and project management for multiple projects. I supported project and financial planning through targeted analyses and contributed to negotiations with Daedalic Entertainment by attending meetings and reviewing contracts. Additionally, I assisted the management with strategic and operational tasks."      
   - role: Game Dev
         time: 2020 - 2022
         company: self-employed
