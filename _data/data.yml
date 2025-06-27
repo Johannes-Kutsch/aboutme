@@ -9,7 +9,7 @@ sidebar:
     # Profile information
     name: Johannes Kutsch
     tagline: Game Developer
-    # avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: johanneskutsch@live.de
@@ -39,16 +39,13 @@ sidebar:
       - item: Dancing (Brazilian Zouk)
         link:
     
-      - item: Cycling
+      - item: Psychology, self-exploration and workshops on Nonviolent Communication
         link:
 
-      - item: Cooking
-        link:
-
-      - item: Psychology, self-exploration and nonviolent communication
+      - item: Swimming
         link:
         
-      - item: Games
+      - item: Games (Board & Video)
         link:
 
 education:
@@ -64,19 +61,34 @@ education:
 
 career-profile:
     title: Introduction
-    summary: |
-      Hello and welcome to my CV! I finished my bachelor's degree in Media Computer Science in late 2017. After that, I decided to pursue my passion for games and studied Games at the HAW Hamburg. During my studies, I started developing the game [Wild Woods](http://www.wildwoodsgame.com/) together with 3 fellow students, and based on its success we then founded the indie studio Octofox Games. I left the studio at the end of 2024 and am now looking for new challenges in which I can use my analytical, creative and coordination skills.
-
+    summary: | 
+      My name is Johannes Kutsch. Since 2017, I've been working as a game developer with a strong interest in using games for meaningful, educational purposes. I'm particularly passionate about serious games and the potential of gamification to create engaging learning experiences – especially when learning doesn’t feel like learning. 
+      
+      During my studies in Games at *HAW Hamburg*, I co-developed the educational game [*EDDI*](https://www.hoou.de/projects/eddi-epidemic-disease-detectives-hamburg/preview) in cooperation with *HOOU*, which was later used in educational contexts. This experience sparked my ongoing fascination with how game mechanics – such as progression, personalization, or positive feedback loops – can foster intrinsic motivation, particularly in children. While these mechanics are often exploited commercially in the games industry, I believe in using them responsibly to support real learning. 
+      
+      Following this, I co-founded the indie studio *Octofox Games*, where I worked for several years at the intersection of game design, programming, and project coordination. Working in a small team taught me the value of flexibility, ownership, and cross-disciplinary thinking – from technical implementation to strategic decisions. I thrive in environments that value open communication, collaborative learning, and a culture where mistakes are seen as part of the creative process. 
+      
+      I’m now looking for new opportunities to contribute to educational technologies with a human-centered, playful approach – combining creativity, purpose, and smart design.
+    # My name is Johannes Kutsch and I finished my bachelor's degree in Media Computer Science in late 2017. After that, I decided to pursue my passion for games and studied Games at the HAW Hamburg. During my studies, I started developing the game [Wild Woods](http://www.wildwoodsgame.com/) together with 3 fellow students, and based on its success we then founded the indie studio Octofox Games. I left the studio at the end of 2024 and am now looking for new challenges in which I can use my analytical, creative and coordination skills. 
 experiences:
-      - role: Game Dev and Partner
+      - role: Senior Game Developer, Authorized Officer (Prokurist), and Partner
         time: 2022 - 2024
         company: Octofox Games
-        details: After securing funding for Wild Woods, we founded the indie studio Octofox Games. During my time there, I took on various responsibilities. My main contributions to the game included network programming, world generation, AI, and gameplay programming. I also developed tools to streamline the work of level and game designers. Beyond development, I was actively involved in game design and project management for multiple projects. I supported project and financial planning through targeted analyses and contributed to negotiations with Daedalic Entertainment by attending meetings and reviewing contracts. Additionally, I assisted the management with strategic and operational tasks.
+        details: "After securing funding for [*Wild Woods*](http://www.wildwoodsgame.com/), I cofounded the indie studio *Octofox Games*. During my time there, I took on various responsibilities:
+        
+          - Network & Gameplay Programming
 
+          - Procedural World Generation
+
+          - Artificial Intelligence
+
+          - Project Planning & Financial Analysis
+
+          - Game Design"
       - role: Game Dev
         time: 2020 - 2022
         company: self-employed
-        details: While continuing work on Wild Woods I worked on the serious game [EDDi - Epidemic Disease Detectives Hamburg](https://www.hoou.de/projects/eddi-epidemic-disease-detectives-hamburg/preview). Eddi is a serious game that provides a playful learning opportunity to learn infection epidemiological knowledge. I was responsible for programming and the game Design.
+        details: While continuing work on the student project [*Wild Woods*](http://www.wildwoodsgame.com/) I worked on the serious game [*EDDi - Epidemic Disease Detectives Hamburg*](https://www.hoou.de/projects/eddi-epidemic-disease-detectives-hamburg/preview). *Eddi* is a serious game that provides a playful learning opportunity to learn infection epidemiological knowledge. I was responsible for programming and the Game Design.
 
 educationcomplete:
     - degree: Master Degree in Games
@@ -99,38 +111,131 @@ educationcomplete:
       details: |
        I analyzed to what extent different, Monte-Carlo-based learning algorithms are capable of solving the nondeterministic game 2048. I came to the conclusion, that mediocre results can be reached quickly, but Monte-Carlo-based algorithms can't compete with modern, state of the art, agents. [[1]](http://www.gm.fh-koeln.de/~konen/research/PaperPDF/BA_JohannesKutsch_Final-2017.pdf) [[2]](https://youtu.be/Sbx5CO4VJ7U)
 
+        - Awarded with the *[CBC-Award](https://www.th-koeln.de/hochschule/cbc-foerderpreis-2018_60466.php)* (*Cologne Broadcasting Center*)
+
 projects:
     title: Projects
-    intro: >
 
     assignments:
-      - title: Wild Woods (Vertical Slice)
+      - title: Wild Woods
         link: https://www.gamesmaster-hamburg.de/portfolio-items/wild-woods/
-        tagline: "Over the span of one year we (3 fellow students & me) developed a vertical slice of a couch-coop-survival-action game. My main tasks where:
+        description: "Over the span of one year we (3 fellow students & me) developed a vertical slice of a couch-coop-survival-action game."
+          
+          #My main tasks where:
 
-          - game design
+          #- game design
 
-          - gameplay programming
+          #- gameplay programming
 
-          - world generation
+          #- world generation
 
-          - AI"
+          #- AI"
+
+        media: |
+          <div class="thumbnail-row">
+            <iframe src="https://www.youtube.com/embed/ZXIXIiJj050" allowfullscreen controlls=0 class="lightbox-youtube"></iframe>
+            <a src="assets/images/WW/1.jpg" href="assets/images/WW/1.jpg" data-lightbox="WildWoods">
+              <img src="assets/images/WW/1.jpg" alt="Wild Woods Screenshot 1" class="lightbox-thumb"/></a>
+            <a src="assets/images/WW/2.jpg" href="assets/images/WW/2.jpg" data-lightbox="WildWoods">
+              <img src="assets/images/WW/2.jpg" alt="Wild Woods Screenshot 2" class="lightbox-thumb"/></a>
+            <a src="assets/images/WW/3.jpg" href="assets/images/WW/3.jpg" data-lightbox="WildWoods">
+              <img src="assets/images/WW/3.jpg" alt="Wild Woods Screenshot 3" class="lightbox-thumb"/></a>
+            <a src="assets/images/WW/4.jpg" href="assets/images/WW/4.jpg" data-lightbox="WildWoods">
+              <img src="assets/images/WW/4.jpg" alt="Wild Woods Screenshot 4" class="lightbox-thumb"/></a>
+            <a src="assets/images/WW/5.jpg" href="assets/images/WW/5.jpg" data-lightbox="WildWoods">
+               <img src="assets/images/WW/5.jpg" alt="Wild Woods Screenshot 5" class="lightbox-thumb"/></a>
+            <a src="assets/images/WW/6.jpg" href="assets/images/WW/6.jpg" data-lightbox="WildWoods">
+               <img src="assets/images/WW/6.jpg" alt="Wild Woods Screenshot 6" class="lightbox-thumb"/></a>
+            <a src="assets/images/WW/7.jpg" href="assets/images/WW/7.jpg" data-lightbox="WildWoods">
+               <img src="assets/images/WW/7.jpg" alt="Wild Woods Screenshot 7" class="lightbox-thumb"/></a>
+            <a src="assets/images/WW/8.jpg" href="assets/images/WW/8.jpg" data-lightbox="WildWoods">
+               <img src="assets/images/WW/8.jpg" alt="Wild Woods Screenshot 8" class="lightbox-thumb"/></a>
+            <a src="assets/images/WW/9.jpg" href="assets/images/WW/9.jpg" data-lightbox="WildWoods">
+               <img src="assets/images/WW/9.jpg" alt="Wild Woods Screenshot 9" class="lightbox-thumb"/></a>
+          </div>
+
+
+        awards: "
+          - Awarded with the *[German Developer Award](https://deutscherentwicklerpreis.de/)*
+
+          - Shortlisted for the *[German Computer Games Award](https://www.deutscherentwicklerpreis.de/)*
+
+          - Shortlisted for the *[Dietze Prize](https://www.ditze-stiftung.de/)*"
+
 
       - title: Potion Garden Witch
         link: "https://youtu.be/oyQCkBeQ-z8"
-        tagline: "A prototype of an overcooked inspired game, but with witches that need to grow and catch living plants to brew potions. It also features fully functional online multiplayer."
+        description: "A prototype of an overcooked inspired game, but with witches that need to grow and catch living plants to brew potions. It also features fully functional online multiplayer."
 
-      - title: Game Jams
-        link: "https://ruhken.itch.io/"
-        tagline: "During the last few years I participated in a few game jams. Some of the resulting games can be found on my itch page."
+        media: |
+          <div class="thumbnail-row1">
+            <iframe src="https://www.youtube.com/embed/oyQCkBeQ-z8" allowfullscreen controlls=0 class="lightbox-youtube"></iframe>
+          </div>
+
+      - title: Follovers
+        link: "https://ruhken.itch.io/follovers"
+        description: "Follovers was created in one week for the Brackeys Game Jam #2. It combines the best mechanics of Frogger and Snake."
+        
+        media: |
+          <div class="thumbnail-row">
+            <iframe src="https://www.youtube.com/embed/8HGcRCo3jFk" allowfullscreen controlls=0 class="lightbox-youtube"></iframe>
+            <a src="assets/images/Follovers/1.jpg" href="assets/images/Follovers/1.jpg" data-lightbox="Follovers">
+              <img src="assets/images/Follovers/1.jpg" alt="Follovers Screenshot 1" class="lightbox-thumb"/></a>
+            <a src="assets/images/Follovers/2.jpg" href="assets/images/Follovers/2.jpg" data-lightbox="Follovers">
+              <img src="assets/images/Follovers/2.jpg" alt="Follovers Screenshot 2" class="lightbox-thumb"/></a>
+            <a src="assets/images/Follovers/3.jpg" href="assets/images/Follovers/3.jpg" data-lightbox="Follovers">
+              <img src="assets/images/Follovers/3.jpg" alt="Follovers Screenshot 3" class="lightbox-thumb"/></a>
+            <a src="assets/images/Follovers/4.jpg" href="assets/images/Follovers/4.jpg" data-lightbox="Follovers">
+              <img src="assets/images/Follovers/4.jpg" alt="Follovers Screenshot 4" class="lightbox-thumb"/></a>
+            <a src="assets/images/Follovers/5.jpg" href="assets/images/Follovers/5.jpg" data-lightbox="Follovers">
+              <img src="assets/images/Follovers/5.jpg" alt="Follovers Screenshot 5" class="lightbox-thumb"/></a>
+          </div>
 
       - title: Pockethealer
         link: "https://github.com/Johannes-Kutsch/Pocket-Healer"
-        tagline: "The first video game I ever created on my own. Pocket Healer is a mobile game that features an MMO inspired combat system, broken down to its essentials. You are placed in the role of a healer and it is your job to keep your party alive until the boss is defeated."
+        description: "The first video game I ever created on my own. Pocket Healer is a mobile game that features an MMO inspired combat system, broken down to its essentials. You are placed in the role of a healer and it is your job to keep your party alive until the boss is defeated."
+
+        media: |
+          <div class="thumbnail-row">
+            <iframe src="https://www.youtube.com/embed/uIfE-irobDI" allowfullscreen controlls=0 class="lightbox-youtube"></iframe>
+            <iframe src="https://www.youtube.com/embed/iGBp8R1NC6g" allowfullscreen controlls=0 class="lightbox-youtube"></iframe>
+            <iframe src="https://www.youtube.com/embed/s5mnnNnmLZs" allowfullscreen controlls=0 class="lightbox-youtube"></iframe>
+            <iframe src="https://www.youtube.com/embed/kQaP3TPOkbo" allowfullscreen controlls=0 class="lightbox-youtube"></iframe>
+          </div>
 
       - title: DT-Sharing
         link: "https://github.com/Johannes-Kutsch/EISSS16FriesenKutsch/blob/master/README.md"
-        tagline: "We (a fellow [student](https://github.com/netrox91) & me) developed a platform that matches people intending to use the same train route so they can share a ticket. We did most of the HCI together, afterwards I developed the backend and algorithms while he created the frontend."
+        description: "We (a fellow [student](https://github.com/netrox91) & me) developed a platform that matches people intending to use the same train route so they can share a ticket. We did most of the HCI together, afterwards I developed the backend and algorithms while he created the frontend."
+        
+        media: |
+          <div class="thumbnail-row">
+            <a src="assets/images/DTSharing/1.png" href="assets/images/DTSharing/1.png" data-lightbox="DTSharing">
+              <img src="assets/images/DTSharing/1.png" alt="DT Sharing Screenshot 1" class="lightbox-thumb"/></a>
+            <a src="assets/images/DTSharing/2.png" href="assets/images/DTSharing/2.png" data-lightbox="DTSharing">
+              <img src="assets/images/DTSharing/2.png" alt="DT Sharing Screenshot 2" class="lightbox-thumb"/></a>
+            <a src="assets/images/DTSharing/3.png" href="assets/images/DTSharing/3.png" data-lightbox="DTSharing">
+              <img src="assets/images/DTSharing/3.png" alt="DT Sharing Screenshot 3" class="lightbox-thumb"/></a>
+            <a src="assets/images/DTSharing/4.png" href="assets/images/DTSharing/4.png" data-lightbox="DTSharing">
+              <img src="assets/images/DTSharing/4.png" alt="DT Sharing Screenshot 4" class="lightbox-thumb"/></a>
+            <a src="assets/images/DTSharing/5.png" href="assets/images/DTSharing/5.png" data-lightbox="DTSharing">
+              <img src="assets/images/DTSharing/5.png" alt="DT Sharing Screenshot 5" class="lightbox-thumb"/></a>
+            <a src="assets/images/DTSharing/6.png" href="assets/images/DTSharing/6.png" data-lightbox="DTSharing">
+              <img src="assets/images/DTSharing/6.png" alt="DT Sharing Screenshot 6" class="lightbox-thumb"/></a>
+            <a src="assets/images/DTSharing/7.png" href="assets/images/DTSharing/7.png" data-lightbox="DTSharing">
+              <img src="assets/images/DTSharing/7.png" alt="DT Sharing Screenshot 7" class="lightbox-thumb"/></a>
+            <a src="assets/images/DTSharing/8.png" href="assets/images/DTSharing/8.png" data-lightbox="DTSharing">
+              <img src="assets/images/DTSharing/8.png" alt="DT Sharing Screenshot 8" class="lightbox-thumb"/></a>
+            <a src="assets/images/DTSharing/9.png" href="assets/images/DTSharing/9.png" data-lightbox="DTSharing">
+              <img src="assets/images/DTSharing/9.png" alt="DT Sharing Screenshot 9" class="lightbox-thumb"/></a>
+            <a src="assets/images/DTSharing/10.png" href="assets/images/DTSharing/10.png" data-lightbox="DTSharing">
+              <img src="assets/images/DTSharing/10.png" alt="DT Sharing Screenshot 10" class="lightbox-thumb"/></a>
+            <a src="assets/images/DTSharing/11.png" href="assets/images/DTSharing/11.png" data-lightbox="DTSharing">
+              <img src="assets/images/DTSharing/11.png" alt="DT Sharing Screenshot 11" class="lightbox-thumb"/></a>
+          </div>
+
+      - title: Game Jams
+        link: "https://ruhken.itch.io/"
+        description: "During the last few years I participated in a few game jams. Some of the resulting games can be found on my [itch](https://ruhken.itch.io/) page."
 
 news:
     title: News

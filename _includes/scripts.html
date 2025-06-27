@@ -5,6 +5,22 @@
 <!-- custom js -->
 <script type="text/javascript" src="{{site.baseurl}}/assets/js/main.js"></script>
 
+<!-- Lightbox 2 -->
+<script src="https://cdn.jsdelivr.net/npm/lightbox2@2.11.5/dist/js/lightbox.min.js"></script>
+
+<script>
+    lightbox.option({
+      'resizeDuration': 1,
+      'fadeDuration': 1,
+      'wrapAround': true,
+      'alwaysShowNavOnTouchDevices': true,
+      'disableScrolling': true,
+      'fitImagesInViewport': true,
+    })
+
+    
+</script>
+
 {% if site.analytics %}
   {% include analytics.html %}
 {% endif %}
