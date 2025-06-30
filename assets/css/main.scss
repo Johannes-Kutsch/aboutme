@@ -10,18 +10,17 @@
 .thumbnail-row {
   display: flex;            
   overflow-x: auto;         
-  gap: -5px;                
-  padding: 0;          
-  scrollbar-color: #42A8C0 transparent;
+  gap: -5px;                      
+  scrollbar-color: #2d7788 transparent;
 }
 
 .thumbnail-row img {
-  transition: filter 0.3s ease; /* sanfter Übergang */
+  transition: filter 0.3s ease;
 }
 
 .thumbnail-row img:hover {
-  filter: brightness(150%) grayscale(30%);
-  cursor: pointer; /* optional: Mauszeiger als Hand */
+  opacity: 0.8;
+  cursor: pointer; 
 }
 
 /* Scrollbar für Webkit-Browser (Chrome, Safari) */
@@ -56,3 +55,6 @@
   box-sizing: border-box;
 }
 
+.justify {
+  text-align: justify;
+}
