@@ -1,3 +1,7 @@
+---
+
+---
+
 @charset "utf-8";
 
 @import "skins/{{ site.theme_skin | default: 'blue' }}"; // skin
@@ -49,8 +53,4 @@
   height: 100px;             
   border: 1px solid #2d7788; 
   box-sizing: border-box;
-}
-
-.justify {
-  text-align: justify;
 }

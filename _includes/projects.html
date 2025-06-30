@@ -28,11 +28,11 @@
       </span>
 
       {% if project.description %}
-        <span class="project-description justify">{{ project.description | markdownify }}</span>
+        <span class="project-description">{{ project.description | markdownify }}</span>
       {% endif %}
       
       {% if project.awards %}
-        <span class="project-awards justify">{{ project.awards | markdownify }}</span>
+        <span class="project-awards">{{ project.awards | markdownify }}</span>
       {% endif %}
 
       {% if project.media %}
